@@ -15,7 +15,7 @@ namespace Quiz
 	public partial class QUIZ : Form
 	{
 		/// <summary>
-		/// //deklaracja czasu Timera
+		/// //deklaracja czasu Timer
 		/// </summary>
 		int czas = 0;
 		/// <summary>
